@@ -8,12 +8,12 @@ from email.message import EmailMessage
 
 
 # Replace 'YOUR_OPENAI_API_KEY' with your actual API key
-openai.api_key = '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'
+openai.api_key = 'YOUR-API-KEY'
 
 # Replace 'YOUR_TWILIO_SID', 'YOUR_TWILIO_AUTH_TOKEN', and 'YOUR_TWILIO_PHONE_NUMBER' with your actual Twilio credentials
-TWILIO_SID = 'AC5d67660a762cc6843ab8889c0cde9178'
-TWILIO_AUTH_TOKEN = '8b58a49eccbc274be785ce87be540c94'
-TWILIO_PHONE_NUMBER = '+12342565101'
+TWILIO_SID = 'YOUR-TWILIO-SID'
+TWILIO_AUTH_TOKEN = 'YOUR-TWILIO-AUTH-TOKEN'
+TWILIO_PHONE_NUMBER = 'YOUR-TWILIO-PHONE-NUMBER'
 
 
 # Send SMS Reminder
