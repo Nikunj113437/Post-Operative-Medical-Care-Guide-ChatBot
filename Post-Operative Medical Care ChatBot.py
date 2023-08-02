@@ -8,12 +8,12 @@ from email.message import EmailMessage
 
 
 # Replace 'YOUR_OPENAI_API_KEY' with your actual API key
-openai.api_key = 'YOUR-API-KEY'
+openai.api_key = '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'
 
 # Replace 'YOUR_TWILIO_SID', 'YOUR_TWILIO_AUTH_TOKEN', and 'YOUR_TWILIO_PHONE_NUMBER' with your actual Twilio credentials
-TWILIO_SID = 'YOUR-TWILIO-SID'
-TWILIO_AUTH_TOKEN = 'YOUR-TWILIO-AUTH-TOKEN'
-TWILIO_PHONE_NUMBER = 'YOUR-TWILIO-PHONE-NUMBER'
+TWILIO_SID = 'AC5d67660a762cc6843ab8889c0cde9178'
+TWILIO_AUTH_TOKEN = '8b58a49eccbc274be785ce87be540c94'
+TWILIO_PHONE_NUMBER = '+12342565101'
 
 
 # Send SMS Reminder
@@ -89,9 +89,10 @@ def start_reminder_scheduler(surgery_type, rem_type, rem_time, patient_email, pa
 
 # Providing ChatBot Role
 messages = [{"role": "system", "content": "You are a Supertalented and Genius Post Operative \
-            MedicalCare Guide ChatBot that can guide patients through post-operative care \
+            Medical Care Guide ChatBot that can guide patients through post-operative care \
             instructions after a surgery or medical procedure, providing information about wound \
-            care, pain management, physical activity, diet, medical schedule and Emergency \
+            care, pain management, physical activity, diet, Personalized Recommendations based on \
+            surgery type or medical procedure, medical schedule and Emergency \
             Situations by recognizing signs of complications or emergencies during recovery if \
             input by user, and instruct patients on when to seek immediate medical attention in \
             following format:\
@@ -100,6 +101,7 @@ messages = [{"role": "system", "content": "You are a Supertalented and Genius Po
             Pain Management: \
             Physical Activity: \
             Diet: \
+            Personalized Recommendations (Based on Surgery Type): \
             Medical Schedule: \
             Emergency Situations: "}]
 
