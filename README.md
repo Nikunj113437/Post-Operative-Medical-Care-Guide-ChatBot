@@ -61,7 +61,15 @@ This ChatBot was developed by __Nikunj Bansal__.
 ## Licence
 This project is licensed under the MIT License.
 
-## ScreenShots:
+## ScreenShots of Working Project:
+<img width="947" alt="image" src="https://github.com/Nikunj113437/Post-Operative-Medical-Care-Guide-ChatBot/assets/72342649/e81acfd5-7cd4-4f1f-9382-8257dd109d70"><br>
+<img width="455" alt="image" src="https://github.com/Nikunj113437/Post-Operative-Medical-Care-Guide-ChatBot/assets/72342649/07cb5ff5-657e-45e7-b43e-8093447dd662"><br>
+<img width="454" alt="image" src="https://github.com/Nikunj113437/Post-Operative-Medical-Care-Guide-ChatBot/assets/72342649/8b602244-985e-4bc6-a96d-96cbcfd31783"><br>
+<img width="447" alt="image" src="https://github.com/Nikunj113437/Post-Operative-Medical-Care-Guide-ChatBot/assets/72342649/a68889d1-48fe-4959-b8ec-af62f9bf7e79"><br>
+<img width="240" alt="image" src="https://github.com/Nikunj113437/Post-Operative-Medical-Care-Guide-ChatBot/assets/72342649/b6241016-0f5e-4290-a614-7a60264509e9">  <br>
+<img width="730" alt="image" src="https://github.com/Nikunj113437/Post-Operative-Medical-Care-Guide-ChatBot/assets/72342649/d6478e63-4b9b-43bc-a7ab-13356aab31fb">  
+
+
 
 
 ## We hope this Post Operative Medical Care Guide ChatBot proves helpful in assisting patients in their post-operative recovery process. If you have any questions or need further assistance, don't hesitate to reach out. Happy healing!
