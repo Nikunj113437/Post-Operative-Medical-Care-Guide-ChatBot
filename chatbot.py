@@ -101,7 +101,7 @@ messages = [{"role": "system", "content": "You are a Supertalented and Genius Po
             Pain Management: \
             Physical Activity: \
             Diet: \
-            Personalized Recommendations (Based on Surgery Type): \
+            Personalized Care Recommendations (Based on Surgery Type): \
             Medical Schedule: \
             Emergency Situations: "}]
 
