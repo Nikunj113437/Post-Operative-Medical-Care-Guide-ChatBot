@@ -99,7 +99,7 @@ messages = [{"role": "system", "content": "You are a Supertalented and Genius Po
             Instruction: \
             Wound Care: \
             Pain Management: \
-            Physical Activity: \
+            Physical Activity and Nutrition: \
             Diet: \
             Personalized Care Recommendations (Based on Surgery Type): \
             Medical Schedule: \
