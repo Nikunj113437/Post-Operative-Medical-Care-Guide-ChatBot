@@ -1,4 +1,4 @@
-# Post-Operative-Medical-Care-Guide-ChatBot
+# ReviveCare - Your Personal Recovery Companion
 <img width="657" alt="image" src="https://github.com/Nikunj113437/Post-Operative-Medical-Care-Guide-ChatBot/assets/72342649/2e588621-acf2-4b1c-b49d-530ffc926bef">
 
 ## Introduction
