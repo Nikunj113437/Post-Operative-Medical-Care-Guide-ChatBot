@@ -170,7 +170,7 @@ iface = gr.Interface(
                 and Important Recovery Milestone Reminders: (Optional)"),
     ],
     outputs="text",
-    title="Post-Operative Medical Care Guide Chatbot",
+    title="RecoverEase - Your Personalized Post-Operative Guide",
     description="Your Personal Post-Operative Medical Guide Chatbot: Customized recovery instructions, \
                 timely reminders, and expert advice tailored to your surgery. Stay on track and \
                 ensure a smooth healing journey with our intelligent virtual assistant!",
